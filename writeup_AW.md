@@ -15,13 +15,13 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./write_ip_images/1_chessboard_undistorted.jpg "Undistorted"
-[image2]: ./write_ip_images/2_straight_lines1_undistorted.jpg "Road Transformed"
-[image3]: ./write_ip_images/binary_exploration.jpg "Binary exploration"
-[image4]: ./write_ip_images/3_binary.jpg "Binary Final"
-[image5]: ./write_ip_images/source_locations.jpg "Source locations"
-[image6]: ./write_ip_images/4_perspective.jpg "Perspective Transform"
-[image7]: ./write_ip_images/5_final.jpg "Final output"
+[image1]: ./write_up_images/1_chessboard_undistorted.jpg "Undistorted"
+[image2]: ./write_up_images/2_straight_lines1_undistorted.jpg "Road Transformed"
+[image3]: ./write_up_images/binary_exploration.jpg "Binary exploration"
+[image4]: ./write_up_images/3_binary.jpg "Binary Final"
+[image5]: ./write_up_images/source_locations.jpg "Source locations"
+[image6]: ./write_up_images/4_perspective.jpg "Perspective Transform"
+[image7]: ./write_up_images/5_final.jpg "Final output"
 [video1]: ./output_images/test_output.mp4 "Video"
 
 ---
