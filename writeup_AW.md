@@ -139,6 +139,8 @@ left_curverad = ((1 + (2*left_fit_cr[0]*y_eval*ym_per_pix + left_fit_cr[1])**2)*
     right_curverad = ((1 + (2*right_fit_cr[0]*y_eval*ym_per_pix + right_fit_cr[1])**2)**1.5) / np.absolute(2*right_fit_cr[0])
 ```
 
+The location of the vehicle is also calculated. 
+
 #### 6. Provide an example image of your result plotted back down onto the road such that the lane area is identified clearly.
 
 These lines and region between was then plotted back on to the original image. To do this the inverse matrix was required to perform the transform. 
